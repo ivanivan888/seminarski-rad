@@ -1,0 +1,3 @@
+Placanje 3.5
+Logovanje 2.1
+Autentifikacija 1.0
