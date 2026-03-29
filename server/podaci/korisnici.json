@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "korisnickoIme": "admin",
+    "lozinka": "admin",
+    "tip": "admin"
+  },
+  {
+    "id": 2,
+    "korisnickoIme": "pera",
+    "lozinka": "peric",
+    "tip": "korisnik"
+  }
+]
